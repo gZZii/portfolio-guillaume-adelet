@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Guillaume ADELET",
-  roles: ["Web Devellopeur"],
+  roles: ["Web Developer"],
   description:
     "I am a motivated and versatile individual, eager to take on new challenges and dedicated to delivering high-quality results. With a passion for learning and a growth mindset, I am ready to make a significant impact and achieve great things.",
   github: "https://github.com/gZZii",
